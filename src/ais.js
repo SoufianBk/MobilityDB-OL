@@ -1,6 +1,6 @@
 import 'ol/ol.css';
 
-var file = 'https://raw.githubusercontent.com/SoufianBk/ais-ol/main/trips.json' ;
+var file = 'https://raw.githubusercontent.com/SoufianBk/MobilityDB-OL/main/trips.json' ;
 
 ol.proj.useGeographic();
 
